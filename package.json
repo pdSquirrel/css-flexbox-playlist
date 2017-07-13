@@ -1,0 +1,14 @@
+{
+  "name": "css-flexbox-playlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pdSquirrel/css-flexbox-playlist.git",
+  "author": "Roger Nordqvist <progdev.squirrel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
