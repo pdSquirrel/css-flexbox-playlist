@@ -16,14 +16,13 @@ body{
 .flex-container {
     display: flex;
     background-color: white;
-    /* nowrap is default behaviour */
     flex-wrap: wrap;
 }
 
 .box {
     height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
+    /* flex-grow, flex-shrink, flex-basis */
+    flex: 1 0 200px;
 }
 
 .one {
