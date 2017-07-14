@@ -4,7 +4,7 @@
 }
 
 body{
-    background: #eee;
+    background: gray;
 }
 
 .wrapper{
@@ -15,6 +15,7 @@ body{
 
 .flex-container {
     display: flex;
+    background-color: white;
 }
 
 .box {
